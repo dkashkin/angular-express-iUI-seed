@@ -23,7 +23,7 @@ app.configure('production', function(){
 app.get('/', routes.index);
 app.get('/partials/:partialViewName', routes.partials);
 app.get('/api/name', api.name);
-app.get('*', routes.index); // redirect all others to the index (HTML5 history)
+app.get('*', routes.index);
 
 app.listen(3000, function(){
   console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);

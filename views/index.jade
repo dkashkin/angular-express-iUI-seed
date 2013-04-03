@@ -1,20 +1,7 @@
 extends layout
-
 block body
     div(ng-controller='AppCtrl')
-        .toolbar
-            h1 Hello {{name}}!
-        .content.panel
-            ul
-                li
-                    a(ng-tap="$navigate.go('/view1', 'slide')", href="") view1
-                li
-                    a(ng-tap="$navigate.go('/view2', 'slide')", href="") view2
-            mobile-view
-            div
-                | Custom directive and service:&nbsp;
-                span(ng-get-app-version)
-
+        mobile-view
     script(src='js/lib/angular/angular.min.js')
     script(src='js/main.js')
     script(src='js/services.js')

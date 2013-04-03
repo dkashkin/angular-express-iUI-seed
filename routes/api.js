@@ -1,8 +1,7 @@
 'use strict';
 
 exports.name = function (req, res) {
-    console.log("in API");
     res.json({
-        name: 'Dennis'
+        name: 'API works as of ' + new Date().toTimeString().replace(/.*(\d{2}:\d{2}:\d{2}).*/, "$1")
     });
 };

@@ -1,0 +1,12 @@
+.toolbar
+    h1 home.jade
+.content.panel
+    p Hit node: {{name}}
+    p Hit custom filter: {{name | myCustomFilter}}
+    p Hit custom service via custom directive:&nbsp;
+        span(ng-get-app-version)
+    ul
+        li
+            a(ng-tap="$navigate.go('/page1')", href="") Slide to page1
+        li
+            a(ng-tap="$navigate.go('/popup1')", href="") Open popup1
