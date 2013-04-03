@@ -1,6 +1,6 @@
 # Angular Express iUI Seed
 Seed project for making hybrid mobile apps with the following stack:
-* Cordova (adding soon)
+
 * iUI
 * AngularJS
 * Jade
