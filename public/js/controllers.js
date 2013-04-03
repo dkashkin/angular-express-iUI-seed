@@ -11,14 +11,3 @@ function AppCtrl($scope, $http, $navigate) {
             $scope.name = 'Error!'
         });
 }
-
-//function MyCtrl1($scope, $http, $navigate) {
-//    $scope.$navigate = $navigate;
-//}
-//MyCtrl1.$inject = [];
-//
-//
-//function MyCtrl2($scope, $http, $navigate) {
-//    $scope.$navigate = $navigate;
-//}
-//MyCtrl2.$inject = [];
