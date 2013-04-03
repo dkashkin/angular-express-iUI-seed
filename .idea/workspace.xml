@@ -53,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0471597">
               <folding />
             </state>
           </provider>
@@ -80,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.11789925">
+            <state line="5" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,8 +148,8 @@
         <option value="$PROJECT_DIR$/views/partials/page1.jade" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/public/js/main.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/public/js/controllers.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -516,13 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="1" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
@@ -553,7 +546,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.11789925">
+        <state line="5" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0471597">
           <folding />
         </state>
       </provider>
